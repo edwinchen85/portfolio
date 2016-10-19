@@ -13,7 +13,7 @@ permalink: /:categories/:title
 links:
   - title: about
     url: about
-  - title: projects
+  - title: project
     url: project
   - title: article
     url: article
