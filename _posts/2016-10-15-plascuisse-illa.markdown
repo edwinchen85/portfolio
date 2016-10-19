@@ -3,6 +3,7 @@ layout: post
 title:  "Placuisse illa"
 date:   2016-10-15 09:30:45
 categories: jekyll update
+featured: true
 ---
 
 ## Dummodo nectaris innato si umeris protinus et
