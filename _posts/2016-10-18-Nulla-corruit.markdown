@@ -4,6 +4,7 @@ title:  "Nulla corruit"
 date:   2016-10-18 14:31:23
 categories: jekyll update
 featured: true
+tags: inspiration
 ---
 
 ## Natus est tangeret haeserat vir tandem narret
