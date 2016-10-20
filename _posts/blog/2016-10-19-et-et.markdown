@@ -2,7 +2,7 @@
 layout: post
 title:  "Et et"
 date:   2016-10-19 14:31:23
-categories: jekyll update
+categories: blog
 tags: code inspiration
 ---
 

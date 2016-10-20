@@ -2,7 +2,7 @@
 layout: post
 title:  "Nulla corruit"
 date:   2016-10-18 14:31:23
-categories: jekyll update
+categories: blog
 featured: true
 tags: inspiration
 ---
