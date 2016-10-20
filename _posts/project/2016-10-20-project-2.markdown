@@ -3,7 +3,7 @@ layout: post
 title:  "Project 2"
 date:   2016-10-17 14:31:23
 categories: project
-featured-image: "images/project.png"
+featured-image: "/images/project.png"
 tags: layout design
 ---
 
