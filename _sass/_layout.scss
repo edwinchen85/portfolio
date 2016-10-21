@@ -8,8 +8,17 @@
   }
   li {
     display: inline-block;
-    margin: 0 0.5em;
+    margin: 0 1em;
     font-style: 1.5em;
+  }
+  a {
+    font-size: 0.875em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+
+    &:hover {
+      text-decoration: none;
+    }
   }
 }
 .site-title a {
